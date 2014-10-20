@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Juiz Outdated Post Message\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-11 00:39+0100\n"
+"PO-Revision-Date: 2014-10-11 00:40+0100\n"
+"Last-Translator: Geoffrey <rikuasakura@hotmail.fr>\n"
+"Language-Team: Creativejuiz <support@creativejuiz.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/jodpm-admin.inc.php:20
+msgid ""
+"This content has ##. Please, read this page keeping its age in your mind."
+msgstr "Ce contenu a ##. Merci de lire cette page en gardant son âge en tête."
+
+#: ../admin/jodpm-admin.inc.php:31
+msgid "Settings"
+msgstr "Réglages"
+
+#: ../admin/jodpm-admin.inc.php:48 ../admin/jodpm-admin.inc.php:49
+msgid "Outdated Post Message"
+msgstr "Message de Péremption"
+
+#: ../admin/jodpm-admin.inc.php:85
+msgid "Outdated message Options"
+msgstr "Options du message de péremption"
+
+#: ../admin/jodpm-admin.inc.php:100
+msgid "Never show the outdated message for this post"
+msgstr "Ne jamais montrer le message de préremption pour ce post."
+
+#: ../admin/jodpm-admin.inc.php:102
+msgid "This post delay:"
+msgstr "Le délai de ce post&nbsp;:"
+
+#: ../admin/jodpm-admin.inc.php:102 ../admin/jodpm-admin.inc.php:103
+#: ../admin/jodpm-admin.inc.php:164
+msgid "days"
+msgstr "jours"
+
+#: ../admin/jodpm-admin.inc.php:103
+#, php-format
+msgid "Keep 0 to use global value (%s)"
+msgstr "Gardez 0 pour utiliser la valeur globale (%s)"
+
+#: ../admin/jodpm-admin.inc.php:131
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: ../admin/jodpm-admin.inc.php:132
+msgid "Delay before outdated:"
+msgstr "Délai avant péremption&nbsp;:"
+
+#: ../admin/jodpm-admin.inc.php:133
+msgid "Your message:"
+msgstr "Votre message&nbsp;:"
+
+#: ../admin/jodpm-admin.inc.php:134 ../admin/jodpm-admin.inc.php:140
+msgid "Save Changes"
+msgstr "Enregistrer les changements"
+
+#: ../admin/jodpm-admin.inc.php:137
+msgid "Display settings"
+msgstr "Réglages d'affichage"
+
+#: ../admin/jodpm-admin.inc.php:138
+msgid "Display message in:"
+msgstr "Afficher le message dans&nbsp;:"
+
+#: ../admin/jodpm-admin.inc.php:139
+msgid "Display message to the:"
+msgstr "Afficher le message en&nbsp;:"
+
+#: ../admin/jodpm-admin.inc.php:143
+msgid "Metabox Settings"
+msgstr "Réglage de la metabox"
+
+#: ../admin/jodpm-admin.inc.php:144
+msgid "Hide the metabox?"
+msgstr "Cacher la metabox&nbsp;?"
+
+#: ../admin/jodpm-admin.inc.php:155
+msgid "Set general options for your outdated message."
+msgstr "Renseignez les options générales pour le message de péremption."
+
+#: ../admin/jodpm-admin.inc.php:171
+#, php-format
+msgid ""
+"You can use the %s##%s variable to insert the time passed since the "
+"publication date."
+msgstr ""
+"Vous pouvez utiliser la variable %s##%s pour insérer le temps passé depuis "
+"la date de publication."
+
+#: ../admin/jodpm-admin.inc.php:181
+msgid "Choose where you want to display the outdated message on your posts"
+msgstr ""
+"Choisissez où vous souhaitez afficher le message de préremption dans vos "
+"contenus."
+
+#: ../admin/jodpm-admin.inc.php:239
+msgid "Content bottom"
+msgstr "bas du contenu"
+
+#: ../admin/jodpm-admin.inc.php:242
+msgid "Content top"
+msgstr "haut du contenu"
+
+#: ../admin/jodpm-admin.inc.php:245
+msgid "Both"
+msgstr "Les deux"
+
+#: ../admin/jodpm-admin.inc.php:248
+msgid "I'm a ninja, I want to use the shortcode only!"
+msgstr "Je suis un ninja, je veux uniquement utiliser le shortcode&nbsp;!"
+
+#: ../admin/jodpm-admin.inc.php:258
+msgid "You can hide metabox added by this plugin in your posts' edition pages"
+msgstr ""
+"Vous pouvez cacher la metabox ajoutée par ce plugin sur vos pages d'édition "
+"de contenu."
+
+#: ../admin/jodpm-admin.inc.php:272
+msgid "Yes"
+msgstr "Oui"
+
+#: ../admin/jodpm-admin.inc.php:275
+msgid "No"
+msgstr "Non"
+
+#: ../admin/jodpm-admin.inc.php:318
+msgid "Manage Juiz Outdated Post Message"
+msgstr "Régler Juiz Outdated Post Message"
+
+#: ../admin/jodpm-admin.inc.php:323
+#, php-format
+msgid "You must chose at least one %stype of content%s."
+msgstr "Vous devez choisir au moins un %stype de contenu%s."
+
+#: ../admin/jodpm-admin.inc.php:324
+msgid "If you want to deactivate the outdated message, be a ninja!"
+msgstr ""
+"Si vous voulez désactiver le message de péremption, soyez un ninja&nbsp;!"
+
+#: ../admin/jodpm-admin.inc.php:328
+#, php-format
+msgid "You can use %s[outdated]%s shortcode to display the outdated message."
+msgstr ""
+"Vous pouvez utiliser le shortcode %s[outdated]%s pour afficher le message de "
+"péremption."
+
+#: ../admin/jodpm-admin.inc.php:329
+msgid "Be careful, this shortcode use the global settings below."
+msgstr "Attention, ce shortcode utilise les réglages globaux ci-dessous."
+
+#: ../admin/jodpm-admin.inc.php:340
+msgid "Like it? Support this plugin! Thank you."
+msgstr "Vous aimez ce plugin&nbsp;? Aidez-le&nbsp;! Merci."
+
+#: ../admin/jodpm-admin.inc.php:341
+msgid "Donate"
+msgstr "Faire un don"
+
+#: ../admin/jodpm-admin.inc.php:343
+msgid "Tweet it"
+msgstr "Tweeter l'info"
+
+#: ../admin/jodpm-admin.inc.php:345
+msgid "Rate it"
+msgstr "Noter le plugin"
+
+#~ msgid ""
+#~ "Is you don't want to use this plugin more longer, go to Plugins section "
+#~ "and deactivate it."
+#~ msgstr ""
+#~ "Si vous ne souhaitez pas utiliser ce plugin plus longtemps, rendez-vous "
+#~ "dans le menu Extensions et désactivez-le."
+
+#~ msgid "Howdy, %1$s"
+#~ msgstr "Howdy, %1$s"
+
+#~ msgid "Credits"
+#~ msgstr "Credits"
+
+#~ msgid ""
+#~ "Mobile Admin support by <a href=\"http://wordpress.org/extend/plugins/"
+#~ "juiz-smart-mobile-admin\">Juiz SMA</a>"
+#~ msgstr ""
+#~ "Mobile Admin support by <a href=\"http://wordpress.org/extend/plugins/"
+#~ "juiz-smart-mobile-admin\">Juiz SMA</a>"
+
+#~ msgid "Top of page"
+#~ msgstr "Top of page"
+
+#~ msgid "Admin Mobile Appearance"
+#~ msgstr "Admin Mobile Appearance"
+
+#~ msgid "Show plugins shortcuts in adminbar?"
+#~ msgstr "Show plugins shortcuts in adminbar?"
+
+#~ msgid "Show custom WP admin footer ?"
+#~ msgstr "Show custom WP admin footer ?"
+
+#~ msgid "Here, you can modify default settings of the SMA plugin"
+#~ msgstr "Here, you can modify default settings of the SMA plugin"
+
+#~ msgid "Settings saved"
+#~ msgstr "Settings saved"
+
+#~ msgid "Manage Juiz Smart Mobile Admin"
+#~ msgstr "Manage Juiz Smart Mobile Admin"
+
+#~ msgid "The redirection failed"
+#~ msgstr "The redirection failed"
+
+#~ msgid "refresh the page"
+#~ msgstr "refresh the page"
+
+#~ msgid "Sorry, nothing to update..."
+#~ msgstr "Sorry, nothing to update..."
+
+#~ msgid "Unknown error..."
+#~ msgstr "Unknown error..."
