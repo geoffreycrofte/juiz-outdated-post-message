@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Juiz Outdated Post Message\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-10 19:42+0100\n"
+"PO-Revision-Date: 2016-01-10 19:43+0100\n"
+"Last-Translator: Geoffrey <rikuasakura@hotmail.fr>\n"
+"Language-Team: Creativejuiz <support@creativejuiz.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/jodpm-admin.inc.php:20
+msgid ""
+"This content has ##. Please, read this page keeping its age in your mind."
+msgstr ""
+"This content has ##. Please, read this page keeping its age in your mind."
+
+#: ../admin/jodpm-admin.inc.php:31
+msgid "Settings"
+msgstr "Settings"
+
+#: ../admin/jodpm-admin.inc.php:48 ../admin/jodpm-admin.inc.php:49
+msgid "Outdated Post Message"
+msgstr "Outdated Post Message"
+
+#: ../admin/jodpm-admin.inc.php:89
+msgid "Outdated message Options"
+msgstr "Outdated message Options"
+
+#: ../admin/jodpm-admin.inc.php:104
+msgid "Never show the outdated message for this post"
+msgstr "Never show the outdated message for this post"
+
+#: ../admin/jodpm-admin.inc.php:106
+msgid "This post delay:"
+msgstr "This post delay:"
+
+#: ../admin/jodpm-admin.inc.php:106 ../admin/jodpm-admin.inc.php:107
+#: ../admin/jodpm-admin.inc.php:168
+msgid "days"
+msgstr "days"
+
+#: ../admin/jodpm-admin.inc.php:107
+#, php-format
+msgid "Keep 0 to use global value (%s)"
+msgstr "Keep 0 to use global value (%s)"
+
+#: ../admin/jodpm-admin.inc.php:135
+msgid "General Settings"
+msgstr "General Settings"
+
+#: ../admin/jodpm-admin.inc.php:136
+msgid "Delay before outdated:"
+msgstr "Delay before outdated:"
+
+#: ../admin/jodpm-admin.inc.php:137
+msgid "Your message:"
+msgstr "Your message:"
+
+#: ../admin/jodpm-admin.inc.php:138 ../admin/jodpm-admin.inc.php:144
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ../admin/jodpm-admin.inc.php:141
+#, fuzzy
+msgid "Display settings"
+msgstr "Display settings"
+
+#: ../admin/jodpm-admin.inc.php:142
+msgid "Display message in:"
+msgstr "Display message in:"
+
+#: ../admin/jodpm-admin.inc.php:143
+msgid "Display message to the:"
+msgstr "Display message to the:"
+
+#: ../admin/jodpm-admin.inc.php:147
+msgid "Metabox Settings"
+msgstr "Metabox Settings"
+
+#: ../admin/jodpm-admin.inc.php:148
+msgid "Hide the metabox?"
+msgstr "Hide the metabox?"
+
+#: ../admin/jodpm-admin.inc.php:159
+msgid "Set general options for your outdated message."
+msgstr "Set general options for your outdated message."
+
+#: ../admin/jodpm-admin.inc.php:175
+#, php-format
+msgid ""
+"You can use the %s##%s variable to insert the time passed since the "
+"publication date."
+msgstr ""
+"You can use the %s##%s variable to insert the time passed since the "
+"publication date."
+
+#: ../admin/jodpm-admin.inc.php:185
+msgid "Choose where you want to display the outdated message on your posts"
+msgstr "Choose where you want to display the outdated message on your posts"
+
+#: ../admin/jodpm-admin.inc.php:243
+#, fuzzy
+msgid "Content bottom"
+msgstr "Content bottom"
+
+#: ../admin/jodpm-admin.inc.php:246
+#, fuzzy
+msgid "Content top"
+msgstr "Content top"
+
+#: ../admin/jodpm-admin.inc.php:249
+#, fuzzy
+msgid "Both"
+msgstr "Both"
+
+#: ../admin/jodpm-admin.inc.php:252
+#, fuzzy
+msgid "I'm a ninja, I want to use the shortcode only!"
+msgstr "I'm a ninja, I want to use the shortcode only!"
+
+#: ../admin/jodpm-admin.inc.php:262
+msgid "You can hide metabox added by this plugin in your posts' edition pages"
+msgstr "You can hide metabox added by this plugin in your posts' edition pages"
+
+#: ../admin/jodpm-admin.inc.php:276
+msgid "Yes"
+msgstr "Yes"
+
+#: ../admin/jodpm-admin.inc.php:279
+msgid "No"
+msgstr "No"
+
+#: ../admin/jodpm-admin.inc.php:322
+msgid "Manage Juiz Outdated Post Message"
+msgstr "Manage Juiz Outdated Post Message"
+
+#: ../admin/jodpm-admin.inc.php:327
+#, fuzzy, php-format
+msgid "You must chose at least one %stype of content%s."
+msgstr "You must chose at least one %stype of content%s."
+
+#: ../admin/jodpm-admin.inc.php:328
+msgid "If you want to deactivate the outdated message, be a ninja!"
+msgstr "If you want to deactivate the outdated message, be a ninja!"
+
+#: ../admin/jodpm-admin.inc.php:332
+#, php-format
+msgid "You can use %s[outdated]%s shortcode to display the outdated message."
+msgstr "You can use %s[outdated]%s shortcode to display the outdated message."
+
+#: ../admin/jodpm-admin.inc.php:333
+msgid "Be careful, this shortcode use the global settings below."
+msgstr "Be careful, this shortcode use the global settings below."
+
+#: ../admin/jodpm-admin.inc.php:344
+msgid "Like it? Support this plugin! Thank you."
+msgstr "Like it? Support this plugin! Thank you."
+
+#: ../admin/jodpm-admin.inc.php:345
+msgid "Donate"
+msgstr "Donate"
+
+#: ../admin/jodpm-admin.inc.php:347
+msgid "Tweet it"
+msgstr "Tweet it"
+
+#: ../admin/jodpm-admin.inc.php:349
+msgid "Rate it"
+msgstr "Rate it"
+
+#, fuzzy
+#~ msgid ""
+#~ "Is you don't want to use this plugin more longer, go to Plugins section "
+#~ "and deactivate it."
+#~ msgstr ""
+#~ "Is you don't want to use this plugin more longer, go to Plugins section "
+#~ "and deactivate it."
+
+#~ msgid "Howdy, %1$s"
+#~ msgstr "Howdy, %1$s"
+
+#~ msgid "Credits"
+#~ msgstr "Credits"
+
+#~ msgid ""
+#~ "Mobile Admin support by <a href=\"http://wordpress.org/extend/plugins/"
+#~ "juiz-smart-mobile-admin\">Juiz SMA</a>"
+#~ msgstr ""
+#~ "Mobile Admin support by <a href=\"http://wordpress.org/extend/plugins/"
+#~ "juiz-smart-mobile-admin\">Juiz SMA</a>"
+
+#~ msgid "Top of page"
+#~ msgstr "Top of page"
+
+#~ msgid "Admin Mobile Appearance"
+#~ msgstr "Admin Mobile Appearance"
+
+#~ msgid "Show plugins shortcuts in adminbar?"
+#~ msgstr "Show plugins shortcuts in adminbar?"
+
+#~ msgid "Show custom WP admin footer ?"
+#~ msgstr "Show custom WP admin footer ?"
+
+#~ msgid "Here, you can modify default settings of the SMA plugin"
+#~ msgstr "Here, you can modify default settings of the SMA plugin"
+
+#~ msgid "Settings saved"
+#~ msgstr "Settings saved"
+
+#~ msgid "Manage Juiz Smart Mobile Admin"
+#~ msgstr "Manage Juiz Smart Mobile Admin"
+
+#~ msgid "The redirection failed"
+#~ msgstr "The redirection failed"
+
+#~ msgid "refresh the page"
+#~ msgstr "refresh the page"
+
+#~ msgid "Sorry, nothing to update..."
+#~ msgstr "Sorry, nothing to update..."
+
+#~ msgid "Unknown error..."
+#~ msgstr "Unknown error..."

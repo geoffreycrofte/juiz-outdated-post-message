@@ -1,4 +1,8 @@
 <?php
+	// Prevent direct access to the plugin
+	if ( ! defined('ABSPATH') ) {
+		exit;
+	}
 	echo '
 		<!-- '.JUIZ_ODPM_PLUGIN_NAME.' styles -->
 		<style rel="stylesheet">

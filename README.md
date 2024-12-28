@@ -1,4 +1,4 @@
-Juiz Outdated Post Message v1.0.1
+Juiz Outdated Post Message v1.0.5
 ========================
 WordPress Plugin
 ---------------
